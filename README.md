@@ -2,6 +2,8 @@
 
 This application helps users calculate their monthly loan repayments for homes and vehicles and track their monthly expenses. The program provides notifications if total expenses exceed 75% of the user's gross income. It also allows users to choose between renting or buying a property, and if they are purchasing a vehicle, it calculates the monthly loan payment along with the insurance premium.
 
+To access the Source Code go to  Expense2 >> src/expense2 >> Expense2.java 
+
 FEATURES:
 Loan Calculations: Calculate monthly repayments for home and vehicle loans based on user input.
 Expense Tracking: Record monthly expenses such as groceries, utilities, travel, and more.
@@ -10,7 +12,7 @@ Sorted Expenses: Display all expenses in descending order for easy review.
 
 HOW TO COMPILE?
 
-Ensure you have Java or any Java-compatible compiler installed on your system.
+Just make sure  you have Java or any Java-compatible compiler installed on your system.
 
 HOW TO RUN THE CODE?
 After compiling, run the program using the following command:
